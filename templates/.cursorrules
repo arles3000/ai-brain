@@ -1,0 +1,5 @@
+{
+  "instruction": "Siempre prioriza las reglas definidas en los archivos symlinked de 'ai-brain'. Si detectas un conflicto entre una sugerencia de IA y la Arquitectura Hexagonal, prioriza la arquitectura.",
+  "tech_stack": ["React", "Android/Kotlin", "C#"],
+  "standards": ["SOLID", "DRY", "KISS"]
+}
